@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+.title{
+    font-family: 'Signatra DEMO';
+    font-weight: bold;
+}
+
+.image{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.title1{
+    font-size: 25px;
+    text-decoration: overline;
+    margin-bottom: 0px;
+}
+
+.title2{
+    font-size: 25px;
+    text-decoration: underline;
+    margin-top: 0px;
+}
+
+.fundo{
+    background-color: #c39714;
+    border: 4px solid white;
+    width: 321px;
+    height: 569px;
+}
+
+p{
+    font-size: 14px;
+    text-align: center;
+}
+
+.numero{
+    background-image: url(/assets/icons8-whatsapp.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 55px;
+}
+
+ul{
+    list-style-image: url(/assets/icons8-talheres-14.png);
+}
